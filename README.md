@@ -54,11 +54,14 @@ if __name__ == '__main__':
 
 Insert image here
 
+![startpoint](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/92bfcba3-e931-4a7f-a907-2fef327dfa66)
+
+<br/>
+<br/>![movement](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/8eef680f-e815-43a8-bbbc-787e913e41a5)
 
 <br/>
 <br/>
-<br/>
-<br/>
+![endpoint](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/95d0c385-4656-469a-ac11-f83b1cff9bc4)
 
 ## MobileRobot Movement Video:
 
