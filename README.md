@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
 <br/>
 <br/>
-![movement](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/8eef680f-e815-43a8-bbbc-787e913e41a5)
+![244587331-8eef680f-e815-43a8-bbbc-787e913e41a5](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/9a2b5111-5e5e-4ddf-a1ff-355665d64c73)
 
 <br/>
 <br/>
