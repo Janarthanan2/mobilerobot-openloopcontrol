@@ -55,12 +55,14 @@ if __name__ == '__main__':
 
 ![startpoint](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/92bfcba3-e931-4a7f-a907-2fef327dfa66)
 
-<br/>
-<br/>
+
+
+
 ![244587331-8eef680f-e815-43a8-bbbc-787e913e41a5](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/9a2b5111-5e5e-4ddf-a1ff-355665d64c73)
 
-<br/>
-<br/>
+
+
+
 
 ![endpoint](https://github.com/Janarthanan2/mobilerobot-openloopcontrol/assets/119393515/95d0c385-4656-469a-ac11-f83b1cff9bc4)
 
